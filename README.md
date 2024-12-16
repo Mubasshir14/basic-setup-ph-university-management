@@ -121,4 +121,3 @@ Contributions are welcome! Please follow these steps:
 4. **Push your changes** and open a pull request.
 
 ---
-Happy coding! 🚀
