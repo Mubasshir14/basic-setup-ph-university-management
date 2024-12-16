@@ -110,7 +110,6 @@ Make sure you have the following installed:
 - `eslint`: Linting tool for JavaScript/TypeScript
 - `prettier`: Code formatter
 - `ts-node-dev`: Development server for TypeScript
-- `husky`: Pre-commit hooks
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
